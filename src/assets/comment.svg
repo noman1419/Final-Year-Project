@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%" viewBox="0 0 24 24">
+  <defs>
+    <circle id="avatar-16-a" cx="12" cy="12" r="12"/>
+    <circle id="avatar-16-b" cx="12" cy="12" r="12"/>
+    <path id="avatar-16-d" d="M2.08489784,5.20644065 C2.52402064,2.59609956 5.03483111,0.48 7.67413948,0.48 L9.12586052,0.48 C11.7735906,0.48 14.3163112,2.60026485 14.8034468,5.20644065 L15.879803,10.9649461 C16.1229171,12.2656065 15.3488525,13.7908594 14.1558252,14.3692969 L8.4,17.16 L2.85930817,14.3896541 C1.67780089,13.7989004 0.896761866,12.2692489 1.1186945,10.9499827 L2.08489784,5.20644065 Z"/>
+    <filter id="avatar-16-e" width="110.1%" height="108.8%" x="-5.1%" y="-4.5%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceAlpha" result="shadowBlurInner1" stdDeviation=".5"/>
+      <feOffset in="shadowBlurInner1" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0.501960784   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0"/>
+    </filter>
+    <path id="avatar-16-f" d="M1.68,9.6 C1.68,8.9372583 2.2235099,8.4 2.87271034,8.4 L13.9272897,8.4 C14.5860054,8.4 15.12,8.93263779 15.12,9.6 L15.12,9.6 C15.12,10.2627417 14.5764901,10.8 13.9272897,10.8 L2.87271034,10.8 C2.21399461,10.8 1.68,10.2673622 1.68,9.6 L1.68,9.6 Z"/>
+    <filter id="avatar-16-g" width="111.2%" height="162.5%" x="-5.6%" y="-31.2%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceAlpha" result="shadowBlurInner1" stdDeviation=".5"/>
+      <feOffset in="shadowBlurInner1" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0.301960784   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0"/>
+    </filter>
+    <path id="avatar-16-h" d="M10.7489072,4.58278496 C10.3794799,4.43765283 10.08,3.99529787 10.08,3.60663986 L10.08,0 L6.72,0 L6.72,3.60663986 C6.72,4.00061779 6.41379353,4.4402954 6.05109283,4.58278496 L0,6.96 L0,10.32 L16.8,10.32 L16.8,6.96 L10.7489072,4.58278496 Z"/>
+    <filter id="avatar-16-i" width="108.9%" height="114.5%" x="-4.5%" y="-7.3%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceAlpha" result="shadowBlurInner1" stdDeviation=".5"/>
+      <feOffset in="shadowBlurInner1" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0.301960784   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0"/>
+    </filter>
+    <polygon id="avatar-16-k" points=".24 20.16 4.32 18.72 8.28 23.28 12.48 18.72 16.56 20.16 16.56 24 .24 24"/>
+    <filter id="avatar-16-l" width="109.2%" height="129.2%" x="-4.6%" y="-15%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceAlpha" result="shadowBlurInner1" stdDeviation=".5"/>
+      <feOffset in="shadowBlurInner1" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0.501960784   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0"/>
+    </filter>
+    <path id="avatar-16-m" d="M2.4,6.71469318 C2.4,3.40391556 5.09303423,0.72 8.4,0.72 L8.4,0.72 C11.7137085,0.72 14.4,3.414504 14.4,6.71469318 L14.4,8.88 L14.1195675,11.3104147 C13.8768011,13.4143906 12.0383179,15.6423534 10.0128639,16.286816 L9.09026779,16.5803693 C8.70904342,16.701668 8.08552414,16.6999395 7.70973221,16.5803693 L6.78713608,16.286816 C4.76183275,15.6424013 2.92325684,13.4148926 2.68043246,11.3104147 L2.4,8.88 L2.4,6.71469318 Z"/>
+    <filter id="avatar-16-n" width="112.5%" height="109.4%" x="-6.2%" y="-4.7%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceAlpha" result="shadowBlurInner1" stdDeviation=".5"/>
+      <feOffset in="shadowBlurInner1" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0.301960784   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0"/>
+    </filter>
+    <path id="avatar-16-o" d="M0.12,8.4 C1.2,8.04 0.96,7.2 0.96,6.4806311 C0.96,3.12 4.07525297,0 7.92,0 C11.7639019,0 14.88,3.14200704 14.88,6.72 C14.88,7.41799296 14.76,8.28 13.8,9.12 C13.32,7.08 10.2888006,7.24696998 9.96880062,6 C9.6,6.4806311 9.6,7.08 9.84,7.56 C7.79119938,7.15303002 6.47538833,6.38422813 5.47111111,5.4 C4.56888889,6.9606311 3.48,11.28 0.12,8.4 Z"/>
+    <filter id="avatar-16-p" width="111.8%" height="116%" x="-6.8%" y="-8%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceAlpha" result="shadowBlurInner1" stdDeviation=".5"/>
+      <feOffset in="shadowBlurInner1" result="shadowOffsetInner1"/>
+      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0.501960784   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="#FFDB6E" xlink:href="#avatar-16-a"/>
+    <mask id="avatar-16-c" fill="#fff">
+      <use xlink:href="#avatar-16-b"/>
+    </mask>
+    <use fill="#FFDB6E" xlink:href="#avatar-16-b"/>
+    <g mask="url(#avatar-16-c)">
+      <g transform="translate(3.6 .96)">
+        <use fill="#33261C" xlink:href="#avatar-16-d"/>
+        <use fill="#000" filter="url(#avatar-16-e)" xlink:href="#avatar-16-d"/>
+        <use stroke="#000" stroke-width=".5" xlink:href="#avatar-16-d"/>
+        <use fill="#9E7557" xlink:href="#avatar-16-f"/>
+        <use fill="#000" filter="url(#avatar-16-g)" xlink:href="#avatar-16-f"/>
+        <use stroke="#302219" stroke-width=".5" xlink:href="#avatar-16-f"/>
+        <rect width="5.26" height="2.14" x="5.77" y="17.05" fill="#D8D8D8" stroke="#43474A" stroke-width=".5"/>
+        <g transform="translate(0 13.44)">
+          <mask id="avatar-16-j" fill="#fff">
+            <use xlink:href="#avatar-16-h"/>
+          </mask>
+          <use fill="#9E7557" xlink:href="#avatar-16-h"/>
+          <use fill="#000" filter="url(#avatar-16-i)" xlink:href="#avatar-16-h"/>
+          <use stroke="#302219" stroke-width=".5" xlink:href="#avatar-16-h"/>
+          <path fill="#802B00" d="M2.4,-6.00530682 C2.4,-9.31608444 5.09303423,-12 8.4,-12 L8.4,-12 C11.7137085,-12 14.4,-9.305496 14.4,-6.00530682 L14.4,-3.84 L14.1761343,-2.12369594 C13.9021269,-0.0229726778 12.1386116,2.45069419 10.2466878,3.39665611 L9.04743164,3.99628418 C8.68986502,4.17506749 8.11612427,4.17806213 7.75256836,3.99628418 L6.55331223,3.39665611 C4.65714624,2.44857312 2.89810129,-0.0212234581 2.62386575,-2.12369594 L2.4,-3.84 L2.4,-6.00530682 Z" mask="url(#avatar-16-j)" opacity=".12" style="mix-blend-mode:multiply"/>
+        </g>
+        <use fill="#50585C" xlink:href="#avatar-16-k"/>
+        <use fill="#000" filter="url(#avatar-16-l)" xlink:href="#avatar-16-k"/>
+        <use stroke="#323B40" stroke-width=".5" xlink:href="#avatar-16-k"/>
+        <polygon fill="#43474A" points="12.48 18.72 16.56 20.16 16.56 24 8.4 23.16" opacity=".4"/>
+        <path fill="#FFF" stroke="#43474A" stroke-width=".5" d="M5.69452636,16.9672282 L8.17940519,22.7652788 C8.23161854,22.8871099 8.37270948,22.9435463 8.49454063,22.891333 C8.5511842,22.8670571 8.59631899,22.8219224 8.62059481,22.7652788 L11.1054736,16.9672282 C11.157687,16.845397 11.2987779,16.7889607 11.4206091,16.841174 C11.4634013,16.8595135 11.4999356,16.8899034 11.5257605,16.9286408 L12.6191491,18.5687236 C12.6787922,18.6581882 12.6716537,18.776404 12.6016786,18.8580416 L8.58222158,23.5474082 C8.49596027,23.6480464 8.34444827,23.6597011 8.24381007,23.5734398 C8.23447916,23.5654419 8.22577634,23.5567391 8.21777842,23.5474082 L4.19832139,18.8580416 C4.12834631,18.776404 4.12120784,18.6581882 4.1808509,18.5687236 L5.27423949,16.9286408 C5.34776408,16.8183539 5.49677272,16.7885522 5.6070596,16.8620767 C5.64579698,16.8879017 5.67618685,16.924436 5.69452636,16.9672282 Z"/>
+        <use fill="#9E7557" xlink:href="#avatar-16-m"/>
+        <use fill="#000" filter="url(#avatar-16-n)" xlink:href="#avatar-16-m"/>
+        <use stroke="#302219" stroke-width=".5" xlink:href="#avatar-16-m"/>
+        <path fill="#802B00" d="M8.4,0.72 C12.2439019,0.72 15.36,3.86200704 15.36,7.44 C15.36,8.13799296 15.12,9.48 15.72,10.3193689 C15.2201884,10.4146963 14.72387,10.3607889 14.246824,10.2033654 L14.1195675,11.3104147 C13.8768011,13.4143906 12.0383179,15.6423534 10.0128639,16.286816 L9.09026779,16.5803693 C8.7510559,16.6883004 8.22001022,16.6988263 7.84234367,16.6156002 L7.96403599,16.5910324 L7.96403599,16.5910324 L8.11361142,16.5448442 L8.28466678,16.4800505 C10.273991,15.7265186 12.0412883,13.4063909 12.2461685,11.2925469 L12.2461685,11.2925469 L12.4581303,9.11155096 C11.3918977,8.15980253 10.619605,6.90558725 10.4488006,6.24 C10.08,6.7206311 10.08,8.04 10.32,8.52 C8.27119938,8.11303002 6.95538833,6.62422813 5.95111111,5.64 C5.04888889,7.2006311 4.32,10.8 0.96,10.8 C1.2,9.5993689 1.44,9 1.44,7.2006311 C1.44,3.84 4.55525297,0.72 8.4,0.72 Z" opacity=".12"/>
+        <path stroke="#D9B341" stroke-linecap="round" stroke-width=".5" d="M1.68,10.68 C1.68,10.8788225 1.84117749,11.04 2.04,11.04 C2.23882251,11.04 2.4,10.8788225 2.4,10.68 C2.4,10.4811775 2.23882251,10.32 2.04,10.32" transform="matrix(-1 0 0 1 4.08 0)"/>
+        <path stroke="#D9B341" stroke-linecap="round" stroke-width=".5" d="M14.4,10.68 C14.4,10.8788225 14.5611775,11.04 14.76,11.04 C14.9588225,11.04 15.12,10.8788225 15.12,10.68 C15.12,10.4811775 14.9588225,10.32 14.76,10.32"/>
+        <path stroke="#71432C" stroke-width=".5" d="M8.01400671,12.0453745 C8.10144998,12.1634535 8.24178579,12.24 8.4,12.24 C8.55821421,12.24 8.69855002,12.1634535 8.78599329,12.0453745" opacity=".2"/>
+        <path fill="#FFF" stroke="#B35968" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" d="M6.72,13.44 C7.19772112,14.0455574 7.77640579,14.4 8.4,14.4 C9.02359421,14.4 9.60227888,14.0455574 10.08,13.44 L6.72,13.44 Z"/>
+        <g transform="translate(4.56 9.36)">
+          <circle cx=".96" cy=".72" r="1" fill="#33261C"/>
+          <polygon fill="#33261C" points=".72 .48 0 .24 .72 .96"/>
+          <path fill="#FFF" fill-rule="nonzero" d="M0.72,0.72 C0.58745166,0.72 0.48,0.61254834 0.48,0.48 C0.48,0.34745166 0.58745166,0.24 0.72,0.24 C0.801137994,0.24 0.872871909,0.280263643 0.916311407,0.34190059 C0.943835376,0.380954757 0.96,0.428589654 0.96,0.48 C0.96,0.61254834 0.85254834,0.72 0.72,0.72 Z"/>
+          <g transform="translate(6)">
+            <circle cx=".72" cy=".72" r="1" fill="#33261C"/>
+            <polygon fill="#33261C" points=".96 .48 1.68 .24 .96 .96"/>
+            <path fill="#FFF" fill-rule="nonzero" d="M0.48,0.72 C0.34745166,0.72 0.24,0.61254834 0.24,0.48 C0.24,0.34745166 0.34745166,0.24 0.48,0.24 C0.554521575,0.24 0.621110255,0.273964764 0.665130354,0.327258606 C0.699406922,0.368756242 0.72,0.421973235 0.72,0.48 C0.72,0.61254834 0.61254834,0.72 0.48,0.72 Z"/>
+          </g>
+        </g>
+        <g transform="translate(.48)">
+          <use fill="#33261C" xlink:href="#avatar-16-o"/>
+          <use fill="#000" filter="url(#avatar-16-p)" xlink:href="#avatar-16-o"/>
+          <use stroke="#000" stroke-width=".5" xlink:href="#avatar-16-o"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

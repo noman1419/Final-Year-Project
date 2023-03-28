@@ -1,0 +1,199 @@
+@media screen and (max-width: 820px) {
+    .webOnly{
+        display: block !important;
+    }
+    .mobileOnly{
+        display: flex !important;
+    }
+    .navigation{
+        transform: translateX(-100%)  !important;
+    }
+    .right-navigation-show{
+        transform: translateX(0)  !important;
+    }
+    .navigation.right-navigation{
+        transform: translateX(100%)  !important;
+    }
+    .showSideBar{
+        transform: translateX(0)  !important;        
+        /* transition: width 5s ease-in-out  !important; */
+    }
+    .dashboard_main .main_body{
+        padding-left: 0  !important;
+        width: 100%  !important;
+    }
+    .dashboard_main .top_navigation{
+        width: calc(100% - 50px)  !important
+    }
+    .inbox-container .inbox-list{
+        width: 350px !important;
+    }
+    .inbox-detail{
+        width: calc(100% - 350px) !important;
+    }
+}
+@media screen and (max-width: 768px){
+    .webOnly{
+        display: block !important;
+    }
+    .noMobile{
+        display: none  !important;
+    }
+    .navigation{
+        transform: translateX(-100%)  !important;
+    }
+    .right-navigation-show{
+        transform: translateX(0)  !important;
+    }
+    .navigation.right-navigation{
+        transform: translateX(100%)  !important;
+    }
+    .showSideBar{
+        transform: translateX(0)  !important;        
+        /* transition: width 5s ease-in-out  !important; */
+    }
+    .dashboard_main .main_body{
+        padding-left: 0  !important;
+        width: 100%  !important;
+    }
+    .dashboard_main .top_navigation{
+        width: calc(100% - 50px)  !important
+    }
+    .dashboard_main .container{
+        width: calc(100% - 50px)  !important;
+    }
+    .dashboard_main .container .heading{
+        font-size: 56px  !important;
+        line-height: 56px  !important;
+    }
+    .dashboard_main .container .small-heading{
+        font-size: 18px  !important;
+    }
+    .popup-contanier{
+        width: 80%  !important;
+    }
+    .cardstatus{
+        width: 85%  !important;
+    }
+    .bodystatus{
+        flex-direction: column !important;
+        align-items: flex-start !important;
+        justify-content: flex-start !important;
+        overflow: scroll !important;
+    }
+    .body-right-status,
+    .body-left-status{
+        width: calc(100% - 30px)  !important;
+        margin-top: 20px  !important;
+    }
+    .body-right-status{
+        border: none  !important;
+    }
+    .description-comment{
+        display: flex !important;
+        align-items: baseline !important;
+        justify-content: space-between !important;
+    }
+    .body-left-status textarea{
+        min-width: calc(100% - 30px) !important;
+        max-width: calc(100% - 30px) !important;
+        padding: 10px !important;
+    }
+    .body-left-status input{
+        padding: 10px !important;
+    }
+    .dashboard_main .main_body{
+        width: 100% !important;
+    }
+    .addProjectBtn svg path{
+        fill: #fff !important;
+    }
+    .content h2{
+        font-size: 16px !important;
+        font-weight: 400 !important
+    }
+    .content h1{
+        font-size: 44px !important;
+    }
+    #button1{
+        margin-top: 30px !important;
+    }
+    .container{
+        width: 85% !important;
+    }
+    .con1{
+        width: 100% !important;
+        margin: 10px !important;
+    }
+    .comment p{
+        width: 90% !important;
+    }
+    .column{
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+    .contact-footer{
+        grid-template-columns: 1fr !important;
+        width: 80% !important;
+        font-size: 18px !important;
+    }
+    .cont h2{
+        font-size: 20px !important;
+        font-weight: 400;
+    }
+    .cont h1, .contect1 h1{
+        font-size: 40px !important
+    }
+    .cont p{
+        font-size: 18px !important;
+    }
+    .contect1 p{
+        font-size: 18px !important;
+    }
+    .contect1 h2{
+        font-size: 20px !important;
+        font-weight: 400;
+    }
+    .footer-tool,  .footer-member, .footer-marketing, .footer-Refrence{
+        margin-left: 0px !important;
+    }
+    .about-cont-grid{
+        flex-direction: column;
+    }
+    .about-cont-grid .card{
+        width: calc(100% - 40px) !important
+    }
+    .graphBox.grid-4{
+        grid-template-columns: repeat(2, 1fr) !important;
+        grid-gap: 15px;
+    }
+    .graphBox.grid-2{
+        grid-template-columns: repeat(1, 1fr) !important;
+        grid-gap: 15px;
+    }
+    /* Inbox */
+    .inbox-container .inbox-list{
+        width: 100% !important;
+    }
+    .inbox-detail{
+        width: 100% !important;
+        display: none !important;
+        position: absolute;
+        bottom: 0;
+        z-index: 2;
+        height: calc(100% - 70px);
+        background: #fcfcfc;
+    }
+    .inbox-detail.show{
+        display: block !important;
+    }
+    .profile-content-form .half-field {
+        width: 100% !important;
+        margin-bottom: 10px !important;
+    }
+}
+@media screen and (max-width: 468px){
+    .cardstatus{
+        width: 100%  !important;
+    }
+}
